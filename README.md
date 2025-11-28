@@ -1,4 +1,4 @@
-# EduFlex LMS – Online Course Management System  
+# 🎓 EduFlex LMS – Online Course Management System  
 A full-stack Learning Management System built using **React.js**, **Spring Boot**, and **MySQL**, featuring role-based access, secure authentication, assignment handling, and scalable REST APIs.
 
 ---
